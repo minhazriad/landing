@@ -58,10 +58,10 @@ textarea{
 label{
 	display: block;
 	margin-bottom: 5px;
-	color: #ffccff;
+	color: #2069AD;
 }
 button{
-	background-color: #ffccff;
+	background-color: #2069AD;
 	width: 120px;
 	height: 30px;
 	border: none;
@@ -76,12 +76,12 @@ button{
 .contact-right{
 	flex-basis: 40%;
 	padding: 55px 40px;
-	background-color: #ffccff;
+	background-color: #2069AD;;
 	color: white;
 	/*border: 1px solid black;*/
 }
 .contact-right h3{
-	color: #ffccff;
+	color: white;
 	font-weight: 600;
 	margin-bottom: 30px;
 }
